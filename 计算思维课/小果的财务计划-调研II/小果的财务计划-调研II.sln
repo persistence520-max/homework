@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "小果的财务计划-调研II", "小果的财务计划-调研II\小果的财务计划-调研II.vcxproj", "{A821BA62-B47A-4028-AEA1-9B5672407F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A821BA62-B47A-4028-AEA1-9B5672407F0B}.Debug|x64.ActiveCfg = Debug|x64
+		{A821BA62-B47A-4028-AEA1-9B5672407F0B}.Debug|x64.Build.0 = Debug|x64
+		{A821BA62-B47A-4028-AEA1-9B5672407F0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{A821BA62-B47A-4028-AEA1-9B5672407F0B}.Debug|x86.Build.0 = Debug|Win32
+		{A821BA62-B47A-4028-AEA1-9B5672407F0B}.Release|x64.ActiveCfg = Release|x64
+		{A821BA62-B47A-4028-AEA1-9B5672407F0B}.Release|x64.Build.0 = Release|x64
+		{A821BA62-B47A-4028-AEA1-9B5672407F0B}.Release|x86.ActiveCfg = Release|Win32
+		{A821BA62-B47A-4028-AEA1-9B5672407F0B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA065FC5-3E58-471A-AACB-31EF3B42A4BF}
+	EndGlobalSection
+EndGlobal

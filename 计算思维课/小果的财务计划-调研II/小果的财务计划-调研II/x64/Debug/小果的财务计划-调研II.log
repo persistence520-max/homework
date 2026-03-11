@@ -1,0 +1,172 @@
+﻿  FileName.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,36): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,36): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,36): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,36): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,36): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,36):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\visual studio\C\小果的财务计划-调研II\小果的财务计划-调研II\FileName.cpp(20,2):
+          查看对正在编译的函数 模板 实例化“void std::sort<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::greater<int>>(const _RanIt,const _RanIt,_Pr)”的引用
+          with
+          [
+              _Ty=__int64,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,
+              _Pr=std::greater<int>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8404,10):
+          查看对正在编译的函数 模板 实例化“void std::_Sort_unchecked<__int64*,_Fn>(_RanIt,_RanIt,__int64,_Pr)”的引用
+          with
+          [
+              _Fn=std::greater<int>,
+              _RanIt=__int64 *,
+              _Pr=std::greater<int>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8374,18):
+          查看对正在编译的函数 模板 实例化“_BidIt std::_Insertion_sort_unchecked<_RanIt,_Pr>(const _BidIt,const _BidIt,_Pr)”的引用
+          with
+          [
+              _BidIt=__int64 *,
+              _RanIt=__int64 *,
+              _Pr=std::greater<int>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8249,17):
+          查看对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<_Pr&,__int64&,__int64&>(std::greater<int>&,_Ty1,_Ty2) noexcept(<expr>)”的引用
+          with
+          [
+              _Pr=std::greater<int>,
+              _Ty1=__int64 &,
+              _Ty2=__int64 &
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,29): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,29): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,29): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,29): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,29): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,77): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,77): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,77): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,77): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,77): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,77):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1597,48):
+          查看指向正在编译的变量模板“const bool _Debug_lt_pred_order_check_noexcept<std::greater<int> &,__int64 &,__int64 &,1>”的引用
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,54): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,54): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1590,54): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,32): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,32): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,32): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,32): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,32): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,32):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8385,26):
+          查看对正在编译的函数 模板 实例化“std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=__int64 *,
+              _Pr=std::greater<int>
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,22): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,22): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,22): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,22): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8307,22): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8311,92): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8311,92): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8311,92): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8311,92): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8311,92): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8311,82): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8311,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8311,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8311,82): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8311,82): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8322,40): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8322,40): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8322,40): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8322,40): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8322,40): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8322,30): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8322,30): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8322,30): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8322,30): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8322,30): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8336,40): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8336,40): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8336,40): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8336,40): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8336,40): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8336,30): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8336,30): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8336,30): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8336,30): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8336,30): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,57): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,57): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,57): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,57): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,57): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,57):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8374,18):
+          查看对正在编译的函数 模板 实例化“_BidIt std::_Insertion_sort_unchecked<_RanIt,_Pr>(const _BidIt,const _BidIt,_Pr)”的引用
+          with
+          [
+              _BidIt=__int64 *,
+              _RanIt=__int64 *,
+              _Pr=std::greater<int>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(8249,17):
+          查看对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<_Pr&,__int64&,__int64&>(std::greater<int>&,_Ty1,_Ty2) noexcept”的引用
+          with
+          [
+              _Pr=std::greater<int>,
+              _Ty1=__int64 &,
+              _Ty2=__int64 &
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,50): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,50): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,50): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,50): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1598,50): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1602,13): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1602,13): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1602,13): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1602,13): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1602,13): warning C4244:         ]
+  (编译源文件“FileName.cpp”)
+  
+  小果的财务计划-调研II.vcxproj -> D:\visual studio\C\小果的财务计划-调研II\x64\Debug\小果的财务计划-调研II.exe
