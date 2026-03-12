@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\visual studio\C\计算思维课\卡牌\卡牌\main.cpp(26,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  卡牌.vcxproj -> D:\visual studio\C\计算思维课\卡牌\x64\Debug\卡牌.exe
