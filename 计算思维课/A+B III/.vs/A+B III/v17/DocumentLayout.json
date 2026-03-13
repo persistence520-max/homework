@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\C\\\u8BA1\u7B97\u601D\u7EF4\u8BFE\\A\u002BB III\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDD583C-BAA4-4CD6-9D98-89243F757FA8}|A\u002BB III\\A\u002BB III.vcxproj|D:\\visual studio\\C\\\u8BA1\u7B97\u601D\u7EF4\u8BFE\\A\u002BB III\\A\u002BB III\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BDD583C-BAA4-4CD6-9D98-89243F757FA8}|A\u002BB III\\A\u002BB III.vcxproj|solutionrelative:A\u002BB III\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\visual studio\\C\\\u8BA1\u7B97\u601D\u7EF4\u8BFE\\A\u002BB III\\A\u002BB III\\main.cpp",
+              "RelativeDocumentMoniker": "A\u002BB III\\main.cpp",
+              "ToolTip": "D:\\visual studio\\C\\\u8BA1\u7B97\u601D\u7EF4\u8BFE\\A\u002BB III\\A\u002BB III\\main.cpp",
+              "RelativeToolTip": "A\u002BB III\\main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-13T13:36:17.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
